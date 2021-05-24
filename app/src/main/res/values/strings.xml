@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WORK OUT</string>
+    <string name="stop">Stop</string>
+    <string name="change">Change</string>
+    <string name="start">Start</string>
+    <string name="reset">Reset</string>
+    <string name="finish">Finish</string>
+    <string name="quit">Quit</string>
+    <string name="home">Home</string>
+    <string name="data">Data</string>
+    <string name="hukin">腹筋</string>
+    <string name="sukuwato">スクワット</string>
+</resources>
